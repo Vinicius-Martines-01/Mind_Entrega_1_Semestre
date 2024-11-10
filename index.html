@@ -15,7 +15,7 @@
     <title>Mind</title>
 
 </head>
-<body onload="local()">
+<body onload="local(), changeNav()">
     <header>
     <nav class="nav-main">
         <div class="grid-container-nav">
@@ -27,21 +27,14 @@
                 </div>
                 <div class="col-md-3">
                     <div class="cont-nav-center">
-                        <a class="nav-item nav-link" href="/pages/login.html"> Planos</a>
+                        <a class="nav-item nav-link" href="javascript:void(0)" onclick="scrollToPos()" > Planos</a>
                         <a class="nav-item nav-link" href="/pages/artigos.html"> Artigos</a>
                         <a class="nav-item nav-link" href="/pages/sobrenos.html"> Sobre nós</a>
                     </div>
                 </div>
                 <div class="col" style="display: flex; justify-content: flex-end;">  
                     <div class="nav-right-buttons">
-                        <div></div>
-                        <button type="button"  class="nav-btn"
-                            style="background-image: url('/img/magnifying-glass-solid.png');">
-                        </button> 
-                        <div onmouseenter="dropNav(this)" onmouseleave="closeNav(this)" class="nav-right">
-                            <button type="button" class="nav-btn-login">login</button>
-                            <div></div>
-                        </div> 
+
                     </div>
                 </div>
             </div>

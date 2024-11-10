@@ -141,3 +141,35 @@
     cursor: pointer;
     color: black;
 }
+
+
+
+
+.atri-sect{
+    background-color: #002b0b; 
+    height: 100%; 
+    width: 100%;
+}
+
+.atri-sect-body{
+    display: flex; 
+    flex-direction: column; 
+    padding: 10px; 
+    flex-grow: 1; 
+    flex-wrap: wrap;}
+
+.atri-sect-body a {
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.atri-sect-body a > *, .atri-sect-body a > *::before{
+    color: white;
+    text-decoration: none;
+    transition: color 0.1s;
+}
+.atri-sect-body a:hover {
+    text-decoration: none;
+    color: #05A269;
+}

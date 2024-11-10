@@ -15,8 +15,8 @@
 .container-login{
     display: flexbox;
     justify-self: end;
-    background-color: #F8A764;
-
+    background-color: white;
+    transition: background-color 0.25s;
     height: inherit;
     width: 50%;
 
@@ -35,7 +35,8 @@
     border-top-left-radius: 40%;
     outline: 6px solid white;
     outline-offset: -6px;
-    box-shadow: inset 0px 14px 0px #F8A764;
+    box-shadow: inset 0px 14px 0px white;
+    transition: box-shadow 0.25s;
   }
 
 .container-login form{
