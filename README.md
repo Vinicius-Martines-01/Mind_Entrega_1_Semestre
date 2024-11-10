@@ -26,8 +26,8 @@
 
 <u>
   <li>Alice Laila: https://github.com/AliceLSP </li>
-  <li>Gabriel Rodrigues: </li>
-  <li>Gustavo Robson: </li>
+  <li>Gabriel Rodrigues: https://github.com/GabrielAlves106 </li>
+  <li>Gustavo Robson: https://github.com/GustavoRobs-11 </li>
   <li>Janaina Mota: https://github.com/JanainaMotaFatec </li>
   <li>Luis Gustavo: </li>
   <li>Nycole Ferreira: </li>
