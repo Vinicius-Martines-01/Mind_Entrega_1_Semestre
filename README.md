@@ -31,7 +31,7 @@
   <li>Janaina Mota: </li>
   <li>Luis Gustavo: </li>
   <li>Nycole Ferreira: </li>
-  <li>Vinícius Martines: </li>
+  <li>Vinícius Martines: https://github.com/Vinicius-Martines-01 </li>
 </u>
 
 <!--
