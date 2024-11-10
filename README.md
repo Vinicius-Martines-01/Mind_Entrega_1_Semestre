@@ -29,7 +29,7 @@
   <li>Gabriel Rodrigues: https://github.com/GabrielAlves106 </li>
   <li>Gustavo Robson: https://github.com/GustavoRobs-11 </li>
   <li>Janaina Mota: https://github.com/JanainaMotaFatec </li>
-  <li>Luis Gustavo: </li>
+  <li>Luis Gustavo:  https://github.com/LuisCarvalho05095 </li>
   <li>Nycole Ferreira: https://github.com/Nycolete</li>
   <li>Vinícius Martines: https://github.com/Vinicius-Martines-01/Mind-ver-1-Semestre </li>
 </u>
