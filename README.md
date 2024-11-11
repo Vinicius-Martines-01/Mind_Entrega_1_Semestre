@@ -12,6 +12,7 @@
 <br>
 <b> Link da plataforma:</b> https://mind-your-359d.vercel.app/
 <p>Login: snoopy | Senha: 1950</p>
+
 ## Sobre o projeto
 
 <p>A plataforma Mind é um sistema desenvolvido como iniciativa do Projeto Integrador da <b>Fatec Diadema - Luigi Papaiz</b>, inspirado na ODS 3 da ONU (Saúde e Bem-estar), buscando não apenas oferecer suporte psicológico, mas também contribuir para a promoção da saúde e bem-estar social. Dessa forma, buscamos enfrentar problemáticas relacionadas ao preconceito em torno de consultas psicológicas, promover conhecimento sobre segurança pessoal e oferecer um sistema acessível a todos.</p>
