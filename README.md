@@ -26,7 +26,7 @@
 ## Desenvolvedores
 
 <u>
-  <li>Alice Laila: https://github.com/AliceLSP </li>
+  <li>Alice Laila -> :books: Github Institucional https://github.com/AliceLSP  | :pushpin: Github Profissional https://github.com/Alicelspires </li>
   <li>Gabriel Rodrigues: https://github.com/GabrielAlves106 </li>
   <li>Gustavo Robson: https://github.com/GustavoRobs-11 </li>
   <li>Janaina Mota: https://github.com/JanainaMotaFatec </li>
